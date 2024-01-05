@@ -1,0 +1,1 @@
+Used "text-davinci-003" model of OpenAI present in langchain.llms library along with Streamlit. Live deployment can be accessed using below HuggingFace_Hub space [ https://huggingface.co/spaces/pythonista2023/LangchainQ-AChatbot ]
